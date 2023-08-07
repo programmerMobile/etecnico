@@ -1,0 +1,2 @@
+# etecnico
+Ejercicio Tecnico
