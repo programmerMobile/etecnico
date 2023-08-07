@@ -1,3 +1,6 @@
+JAVA : java 11.0.11
+MAVEB : Apache Maven 3.8.6
+
 Ingresar por swagger: 
 
 http://localhost:8080/swagger-ui/index.html#/user-controller
@@ -21,3 +24,5 @@ Ingresar el siguiente JSON:
 
 Se agrego también pruebas unitarias con Mockito y Junit:
 solo ejecutar el archivo que esta en el TEST.
+
+
